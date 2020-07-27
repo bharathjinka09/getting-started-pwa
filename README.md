@@ -1,1 +1,1 @@
-Convert normal HTML website PWA
+Convert normal HTML website to PWA

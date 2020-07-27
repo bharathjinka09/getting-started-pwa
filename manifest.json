@@ -1,0 +1,7 @@
+{
+	"name": "Bharath PWA",
+	"short_name": "Bharath PWA",
+	"start_url":".",
+	"background_color":"aliceblue",
+	"theme_color":"#009578"
+}

@@ -6,3 +6,7 @@ self.addEventListener('install', e => {
 		})
 	);
 })
+
+self.addEventListener('fetch', e => {
+	console.log(`Fetch request for :${e.request.url}`);
+});

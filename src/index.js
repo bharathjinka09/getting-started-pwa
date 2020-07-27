@@ -6,4 +6,6 @@ if ('serviceWorker' in navigator) {
 		console.log('SW registration failed');
 		console.log(error);
 	});
-}	
+}	else{
+	document.innerHTML = 'Please check internet connection!'
+}
